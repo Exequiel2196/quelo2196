@@ -1,0 +1,129 @@
+        <h1>Mega Seguridad Integral</h1>
+        <!DOCTYPE html>
+        <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" href="styles.css">
+            <title>Mega Seguridad - Bienvenidos</title>
+            /* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+header img {
+    max-width: 100px;
+}
+
+#main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+#description p {
+    text-align: justify;
+}
+
+#services ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#services li {
+    margin-bottom: 10px;
+}
+
+#contact, #social-media {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+        </head>
+        <body>
+            <!-- Encabezado -->
+            <header>
+                <img src="Desktop/fotos pagina/logo empresa.png" alt="Logo de color verde claro con letras blancas">
+                <h1>Mega Seguridad Integral</h1>
+            </header>
+        
+            <!-- Contenido principal -->
+            <section id="main-content">
+                <div id="description">
+                    <p>Somos una empresa con 17 años de experiencia empresarial y laboral en seguridad, gestión, 
+                        prevención, planificación y tecnología en la seguridad privada. Con una sólida formación de 
+                        valores, principios y disciplina que nos permite entregar un servicio integral a medida en 
+                        cada necesidad a nuestros clientes.
+                        Acreditada por OS10, Entidad Fiscalizadora de Carabineros de Chile, Respaldando nuestras 
+                        competencias como empresas facilitadora de Recursos humanos y técnicos, que nos 
+                        permite ser una solución completa para las necesidades de seguridad integral, encontrando 
+                        en nosotros asesoría en materia tecnológicas y de recursos humanos. 
+                        Nace de la necesidad del mercado ante la realidad actual, tanto de los particulares y 
+                        privados. Diferenciándose en el complemento de unir los recursos existentes para una 
+                        soluciones integral de seguridad en un mismo servicio. 
+                        Contamos con profesionales acreditados como técnico en seguridad privada, Supervisor, 
+                        jefe de seguridad y asesor en materia inherente en seguridad privada con un equipo de 
+                        profesionales que nos apoyan para la toma de decisiones que nos respaldan para gestionar 
+                        correctamente cada arista de nuestros servicios. </p>
+                </div>
+        
+                <div id="services">
+                    <h2>→ IMPLEMENTACIÓN Y MANTENCIÓN DE CCTV.
+                        Instalaciones personalizadas, apuntando a las necesidades y requerimientos de cada uno 
+                        de nuestros clientes, asesorando en el análisis de riesgo y vulnerabilidades para mejorar la 
+                        implementación del sistema de CCTV de la manera más eficiente, que a su vez elimine las 
+                        vulnerabilidades minimizando los riesgos. 
+                        → IMPLEMENTACIÓN DEL SERVICIO DE ALARMAS.
+                        Instalación de acuerdo a las necesidades, asesorando en los recursos existentes, adaptando 
+                        y ajustando para la necesidad de su empresa.
+                        → SERVICIOS DE RECURSOS HUMANOS, SEGURIDAD FÍSICA.
+                        Guardias de Seguridad: Personal Capacitado y acreditado para ejercer funciones de 
+                        seguridad y protección de instalaciones, Especialistas en atención a público, control 
+                        de acceso, manejo de emergencia, aptos para desempeñarse y resguardar todo tipo de 
+                        instalación. </h2>
+                    <ul>
+                        
+                        
+                    
+                        <!-- Añade más servicios según sea necesario -->
+                    </ul>
+                </div>
+        
+                <div id="contact">
+                    <h2>Contacto</h2>
+                    <p>Teléfono: <span id="+56991730355">123-456-789</span></p>
+                    <p>Correo: <a href="CONTACTO@megaseguridadintegral.cl">info@tuempresa.com</a></p>
+                </div>
+        
+                <div id="social-media">
+                    <h2>Síguenos en Redes Sociales</h2>
+                    <p>
+                        <a href="https://instagram.com/megaseguridadintegral?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">Facebook</a>,
+                        <a href="https://www.facebook.com/profile.php?id=100063469096451&mibextid=LQQJ4d" target="_blank">Twitter</a>,
+                        <!-- Añade más enlaces a redes sociales según sea necesario -->
+                    </p>
+                </div>
+            </section>
+        
+            <!-- Pie de página -->
+            <footer>
+                <p>&copy; 2023 Mega Seguridad Integral SpA</p>
+            </footer>
+        </body>
+        </html>
+        
